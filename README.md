@@ -31,9 +31,9 @@ This is **not an official app**, but a lightweight desktop wrapper made using **
 
 📌 **Purpose** | الغرض:
 - Access Dorar.net without distractions.
- - تصفح Dorar.net دون أي تشتيت.
+     - تصفح Dorar.net دون أي تشتيت.
 - Simple offline-style browser experience.
-- تجربة تصفح بسيطة بدون اتصال بالإنترنت.
+     - تجربة تصفح بسيطة بدون اتصال بالإنترنت.
 
 🚫 **This is NOT** | **هذا ليس**:
 - A content host or distributor. | - مُضيف أو موزع محتوى.
