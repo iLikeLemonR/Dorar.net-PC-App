@@ -1,3 +1,6 @@
+🪟 [Download Dorar Desktop for Windows](https://github.com/yourusername/yourrepo/releases/download/v1.0.0/dorar-setup.exe)
+🪟 [تنزيل برنامج Dorar Desktop لنظام التشغيل Windows](https://github.com/yourusername/yourrepo/releases/download/v1.0.0/dorar-setup.exe)
+
 # 📚 Dorar Desktop App (Unofficial) | تطبيق الدرر السنية لسطح المكتب (غير رسمي)
 
 > ⚠️ **DISCLAIMER / تنبيه**  
