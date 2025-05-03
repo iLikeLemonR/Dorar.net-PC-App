@@ -45,6 +45,6 @@ This is **not an official app**, but a lightweight desktop wrapper made using **
 ## ✅ Features | الميزات
 
 - 🌍 Open [https://dorar.net](https://dorar.net) in a clean, app-like window.
-- 🌍 افتح [https://dorar.net](https://dorar.net) في نافذة نظيفة تشبه التطبيق.
+    - 🌍 افتح [https://dorar.net](https://dorar.net) في نافذة نظيفة تشبه التطبيق.
 - 🔒 No data tracking or ads.
-- 🔒 لا يوجد تتبع للبيانات أو إعلانات.
+    - 🔒 لا يوجد تتبع للبيانات أو إعلانات.
