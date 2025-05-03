@@ -2,6 +2,7 @@
 
 > ⚠️ **DISCLAIMER / تنبيه**  
 > This is an **unofficial community wrapper** for [Dorar.net](https://dorar.net). We **do not** own or host any content from the site.  
+
 > هذا المشروع عبارة عن **تطبيق غير رسمي** يعرض موقع [الدرر السنية](https://dorar.net) داخل واجهة سطح المكتب. نحن **لا نملك** أو نستضيف أي محتوى من الموقع.
 
 ---
@@ -17,6 +18,7 @@
 - ✅ **Islamic History & Manners** (التاريخ والأخلاق)
 
 Created and supervised by scholars including **Sheikh Alawi bin Abd al-Qadir al-Saqqaf**, Dorar.net offers verified, structured Islamic knowledge in accordance with the creed of **Ahlus-Sunnah**.
+
 تم إنشاء موقع Dorar.net وإشرافه من قبل علماء من بينهم **الشيخ علوي بن عبد القادر السقاف**، ويقدم الموقع المعرفة الإسلامية الموثوقة والمنظمة وفقًا لعقيدة **أهل السنة**.
 
 ---
@@ -24,6 +26,7 @@ Created and supervised by scholars including **Sheikh Alawi bin Abd al-Qadir al-
 ## 🖥️ What is This App? | ما هو هذا التطبيق؟
 
 This is **not an official app**, but a lightweight desktop wrapper made using **Electron** to display the public website `https://dorar.net` in a focused desktop window.
+
 هذا ليس **تطبيقًا رسميًا**، ولكنه عبارة عن غلاف سطح مكتب خفيف الوزن تم إنشاؤه باستخدام **Electron** لعرض موقع الويب العام `https://dorar.net` في نافذة سطح مكتب محددة.
 
 📌 **Purpose** | الغرض:
