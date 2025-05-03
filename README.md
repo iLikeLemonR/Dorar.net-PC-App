@@ -30,8 +30,10 @@ This is **not an official app**, but a lightweight desktop wrapper made using **
 هذا ليس **تطبيقًا رسميًا**، ولكنه عبارة عن غلاف سطح مكتب خفيف الوزن تم إنشاؤه باستخدام **Electron** لعرض موقع الويب العام `https://dorar.net` في نافذة سطح مكتب محددة.
 
 📌 **Purpose** | الغرض:
-- Access Dorar.net without distractions. | - تصفح Dorar.net دون أي تشتيت.
-- Simple offline-style browser experience. | - تجربة تصفح بسيطة بدون اتصال بالإنترنت.
+- Access Dorar.net without distractions.
+ - تصفح Dorar.net دون أي تشتيت.
+- Simple offline-style browser experience.
+- تجربة تصفح بسيطة بدون اتصال بالإنترنت.
 
 🚫 **This is NOT** | **هذا ليس**:
 - A content host or distributor. | - مُضيف أو موزع محتوى.
@@ -42,5 +44,7 @@ This is **not an official app**, but a lightweight desktop wrapper made using **
 
 ## ✅ Features | الميزات
 
-- 🌍 Open [https://dorar.net](https://dorar.net) in a clean, app-like window. | - 🌍 افتح [https://dorar.net](https://dorar.net) في نافذة نظيفة تشبه التطبيق.
-- 🔒 No data tracking or ads. | - 🔒 لا يوجد تتبع للبيانات أو إعلانات.
+- 🌍 Open [https://dorar.net](https://dorar.net) in a clean, app-like window.
+- 🌍 افتح [https://dorar.net](https://dorar.net) في نافذة نظيفة تشبه التطبيق.
+- 🔒 No data tracking or ads.
+- 🔒 لا يوجد تتبع للبيانات أو إعلانات.
